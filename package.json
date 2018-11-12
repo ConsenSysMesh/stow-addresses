@@ -1,0 +1,11 @@
+{
+  "name": "@linniaprotocol/linnia-addresses",
+  "version": "0.3.0",
+  "description": "Contains the ethereum addresses of all the linnia-protocol smart contracts and their older versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Linnia"
+}

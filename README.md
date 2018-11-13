@@ -1,6 +1,6 @@
-# Linnia Addresses
+# Stow Addresses
 
-This NPM Package contains a list of all the Linnia Smart Contracts addresses and their older versions.
+This NPM Package contains a list of all the Stow Smart Contracts addresses and their older versions.
 
 
 
@@ -11,18 +11,18 @@ This NPM Package contains a list of all the Linnia Smart Contracts addresses and
 This project is available through [npm](https://www.npmjs.com/). To install run
 
 ```
-> npm install @linniaprotocol/linnia-addresses --save
+> npm install @stowprotocol/stow-addresses --save
 ```
 
 ### Use in Node.js
 
-To create access the Linnia Protocol contract addresses:
+To create access the Stow Protocol contract addresses:
 
 ```
-const linnia_adresses = require('@linniaprotocol/linnia-addresses')
+const stow_adresses = require('@stowprotocol/stow-addresses')
 
-const linnia_hub_address = linnia_adresses.ropsten.LinniaSmartContracts.latest
-const linnia_hub_address1.6 = linnia_adresses.ropsten.LinniaSmartContracts['v0.1.6']
-const linnia_hub_address_rinkeby = linnia_adresses.rinkeby.LinniaSmartContracts.latest
-const linnia_token = linnia_adresses.ropsten.LinniaToken.latest
+const stow_hub_address = stow_adresses.ropsten.StowSmartContracts.latest
+const stow_hub_address1.6 = stow_adresses.ropsten.StowSmartContracts['v0.1.6']
+const stow_hub_address_rinkeby = stow_adresses.rinkeby.StowSmartContracts.latest
+const stow_token = stow_adresses.ropsten.StowToken.latest
 ```

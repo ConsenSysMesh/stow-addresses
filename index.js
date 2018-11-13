@@ -14,6 +14,10 @@ module.exports = {
     StowSmartContracts: {
       latest: "0x35f62f70652f4e38a82d2697d22e8fa5c05103ee",
       'v0.1.3': '0x35f62f70652f4e38a82d2697d22e8fa5c05103ee'
+    },
+    StowToken: {
+      latest: '0xb1a8eb87ec398f353277f3d53dcf95c46db85104',
+      'v0.1.0': '0xb1a8eb87ec398f353277f3d53dcf95c46db85104'
     }
   }
 };

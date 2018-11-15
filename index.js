@@ -1,7 +1,7 @@
 module.exports = {
   ropsten: {
     StowSmartContracts: {
-     latest: '0xfae15fe388a0c0c04d9614f6a8b4f81142bfc87b',
+      latest: '0xfae15fe388a0c0c04d9614f6a8b4f81142bfc87b',
       'v0.1.8': '0xfae15fe388a0c0c04d9614f6a8b4f81142bfc87b',
       'v0.1.6': '0x76305411d861ecc48153336be8b8c255e1aec823',
       'v0.1.3': '0x177Bf15e7E703F4980b7eF75A58dc4198f0f1172'

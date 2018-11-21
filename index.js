@@ -8,6 +8,7 @@ module.exports = {
     },
     StowToken: {
       latest: '0x3cf4ef1fd0d7ffa53420c5447e43b8e8c3d33166',
+      'v0.2.0': '0x3cf4ef1fd0d7ffa53420c5447e43b8e8c3d33166',
       'v0.1.0': '0x4cdfbdec0aa003116bf030f249a8a7285cd6a184'
     }
   },

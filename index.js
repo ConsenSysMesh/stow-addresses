@@ -1,4 +1,10 @@
 module.exports = {
+  mainnet: {
+    StowSmartContracts: {
+      latest: '0x5D5A1dB2892dfc07bE402dd2eD5F3c365Ad74028',
+      'v0.1.9': '0x5D5A1dB2892dfc07bE402dd2eD5F3c365Ad74028'
+    },
+  },
   ropsten: {
     StowSmartContracts: {
       latest: '0xa8afd97368403ca160d4d8e02afa966100d97621',

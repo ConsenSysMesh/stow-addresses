@@ -4,6 +4,10 @@ module.exports = {
       latest: '0x5D5A1dB2892dfc07bE402dd2eD5F3c365Ad74028',
       'v0.1.9': '0x5D5A1dB2892dfc07bE402dd2eD5F3c365Ad74028'
     },
+    StowToken: {
+      latest: '0xda89d2ef799d5a3bde93d7107a30ad7c98d81f4a',
+      'v0.2.0': '0xda89d2ef799d5a3bde93d7107a30ad7c98d81f4a'
+    },
   },
   ropsten: {
     StowSmartContracts: {
